@@ -30,7 +30,7 @@ setup(
     ],
     install_requires=[
         'Django>=2.2',
-        'django-crispy-forms~=1.11.*'
+        'django-crispy-forms~=1.11'
     ],
     extras_require={
         "dev": [
